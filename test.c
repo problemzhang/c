@@ -9,7 +9,6 @@
 //写个代码，在屏幕上打印你好世界
 //printf-库函数-在屏幕上打印信息的
 // printf的使用，也得打招呼（引用头文件stdio.h）
-//
 
 
 #include <stdio.h>
